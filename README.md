@@ -22,10 +22,10 @@
 - [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/): A beautiful New Tab page with many customisable backgrounds and widgets that does not require any permissions.
 - [Temporary Containers](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/): Open tabs, websites, and links in automatically managed disposable containers.
 - [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/): Get information instantly about websites' terms of service and privacy policies, with ratings and summaries from the www.tosdr.org.
-- [Tranquility Reader](https://addons.mozilla.org/en-US/firefox/addon/tranquility-1/): Make a page readable
 - [Translate web pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/): Translate your page in real time using Google or Yandex without opening new tabs.
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): Finally, an efficient blocker. Easy on CPU and memory.
 
+***
 
-Contributors:
-@royal_turd
+### Contributors
+- [Rudra Pratap Singh](https://github.com/royal_turd)
