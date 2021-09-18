@@ -28,4 +28,4 @@
 ***
 
 ### Contributors
-- [Rudra Pratap Singh](https://github.com/royal_turd)
+- [Rudra Pratap Singh](https://github.com/royalturd)
