@@ -27,3 +27,5 @@
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): Finally, an efficient blocker. Easy on CPU and memory.
 
 
+Contributors:
+@royal_turd
