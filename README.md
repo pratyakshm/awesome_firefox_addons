@@ -4,17 +4,19 @@
 
 ## Awesome curation of Firefox addons I use (sorted alphabetically)
 
+- [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean/):
+  Bypass Paywalls of (custom) news sites.
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/):
-  Removes tracking elements from URLs
+  Removes tracking elements from URLs.
 - [Custom scrollbars](https://addons.mozilla.org/en-US/firefox/addon/custom-scrollbars/):
   Give your browser a personal touch with customized scrollbars!
 - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/):
   Dark mode for every website. Take care of your eyes, use dark theme for night
-  and daily browsing
+  and daily browsing.
 - [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/): Displays a
-  flag depicting the location of the current server
+  flag depicting the location of the current server.
 - [Free Download Manager](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/):
-  Free Download Manager integration with browser
+  Free Download Manager integration with browser.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/):
   Multi-Account Containers helps you keep all the parts of your online life
   contained in different tabs. Custom labels and color-coded tabs help keep
@@ -26,7 +28,7 @@
   messages.
 - [Gesturefy](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/):
   Navigate: operate, and browse faster with mouse gestures! A customizable mouse
-  gesture add-on with a variety of different commands
+  gesture add-on with a variety of different commands.
 - [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/):
   Redirects YouTube and Twitter to their alternative ads-free, privacy-friendly,
   interfaces.
@@ -34,11 +36,11 @@
   Maximum protection for your browser: NoScript allows active content only for
   trusted domains of your choice to prevent exploitation.
 - [Octotree](https://addons.mozilla.org/en-US/firefox/addon/octotree/): GitHub
-  code tree: GitHub on steroids
+  code tree: GitHub on steroids.
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/):
   Privacy Badger automatically learns to block invisible trackers.
 - [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/):
-  A suite of modules that enhance your Reddit browsing experience
+  A suite of modules that enhance your Reddit browsing experience.
 - [ScrollAnywhere](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/):
   Drag scrollbar with your middle mouse button anywhere on the page. Supports
   also "grab and drag" style and Momentum.
@@ -58,6 +60,9 @@
   tabs.
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/):
   Finally, an efficient blocker. Easy on CPU and memory.
+- [Universal Bypass](https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/):
+  Don't waste your time with compliance. Universal Bypass automatically skips
+  annoying link shorteners.
 
 ---
 
