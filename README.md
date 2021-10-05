@@ -55,6 +55,8 @@
 - [Terms of Service; Didn’t Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/):
   Get information instantly about websites' terms of service and privacy
   policies, with ratings and summaries from the www.tosdr.org.
+- [Tomato Clock](https://addons.mozilla.org/en-US/firefox/addon/tomato-clock/):
+  Tomato Clock is a simple browser extension that helps with online time management.
 - [Translate web pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/):
   Translate your page in real time using Google or Yandex without opening new
   tabs.
@@ -63,7 +65,8 @@
 - [Universal Bypass](https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/):
   Don't waste your time with compliance. Universal Bypass automatically skips
   annoying link shorteners.
-
+- [Undo Close Tab](https://addons.mozilla.org/en-US/firefox/addon/undoclosetabbutton/):
+  Allows you to restore the tab you just closed with a single click—plus it can offer a list of recently closed tabs within a convenient context menu.
 ---
 
 ### Contributors
