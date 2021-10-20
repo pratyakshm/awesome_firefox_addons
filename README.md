@@ -14,6 +14,8 @@
   ones you trust (forever/until restart) while deleting the rest.
 - [Custom scrollbars](https://addons.mozilla.org/en-US/firefox/addon/custom-scrollbars/):
   Give your browser a personal touch with customized scrollbars!
+- [Definer](https://addons.mozilla.org/en-US/firefox/addon/lumetrium-definer/):
+  Instant definitions and search results for words and phrases you select or type
 - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/):
   Dark mode for every website. Take care of your eyes, use dark theme for night
   and daily browsing.
