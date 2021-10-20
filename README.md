@@ -32,6 +32,8 @@
   Firefox Relay makes it easy to create email aliases that forward to your real
   inbox. Use it to protect your online accounts from hackers and unwanted
   messages.
+- [I don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/)
+  Get rid of cookie warnings from almost all websites!
 - [Gesturefy](https://addons.mozilla.org/en-US/firefox/addon/gesturefy/):
   Navigate: operate, and browse faster with mouse gestures! A customizable mouse
   gesture add-on with a variety of different commands.
