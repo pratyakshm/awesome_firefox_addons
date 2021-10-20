@@ -8,6 +8,10 @@
   Bypass Paywalls of (custom) news sites.
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/):
   Removes tracking elements from URLs.
+- [Cookie AUtoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/):
+  Control your cookies! This WebExtension is inspired by Self Destructing Cookies. 
+  When a tab closes, any cookies not being used are automatically deleted. Keep the 
+  ones you trust (forever/until restart) while deleting the rest.
 - [Custom scrollbars](https://addons.mozilla.org/en-US/firefox/addon/custom-scrollbars/):
   Give your browser a personal touch with customized scrollbars!
 - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/):
@@ -39,6 +43,8 @@
   code tree: GitHub on steroids.
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/):
   Privacy Badger automatically learns to block invisible trackers.
+- [Privacy Settings](https://addons.mozilla.org/en-US/firefox/addon/privacy-settings/):
+  Alter Firefox's built-in privacy settings easily with a toolbar panel.
 - [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/):
   A suite of modules that enhance your Reddit browsing experience.
 - [ScrollAnywhere](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/):
