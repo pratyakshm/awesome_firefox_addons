@@ -51,6 +51,8 @@
   Alter Firefox's built-in privacy settings easily with a toolbar panel.
 - [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/):
   A suite of modules that enhance your Reddit browsing experience.
+- [Return YouTube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/):
+  Brings back the dislike counter on YouTube.com!
 - [ScrollAnywhere](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/):
   Drag scrollbar with your middle mouse button anywhere on the page. Supports
   also "grab and drag" style and Momentum.
