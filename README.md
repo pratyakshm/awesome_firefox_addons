@@ -8,7 +8,7 @@
   Bypass Paywalls of (custom) news sites.
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/):
   Removes tracking elements from URLs.
-- [Cookie AUtoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/):
+- [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/):
   Control your cookies! This WebExtension is inspired by Self Destructing Cookies. 
   When a tab closes, any cookies not being used are automatically deleted. Keep the 
   ones you trust (forever/until restart) while deleting the rest.
