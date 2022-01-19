@@ -40,6 +40,8 @@
 - [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/):
   Redirects YouTube and Twitter to their alternative ads-free, privacy-friendly,
   interfaces.
+- [Mercator Studio for Google Meet](https://addons.mozilla.org/en-US/firefox/addon/mercator-studio/)
+  Change how you look on Google Meet with adjustable exposure, blur, vignette, and more!
 - [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/):
   Maximum protection for your browser: NoScript allows active content only for
   trusted domains of your choice to prevent exploitation.
