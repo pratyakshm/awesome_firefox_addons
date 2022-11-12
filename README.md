@@ -42,6 +42,8 @@
   interfaces.
 - [Mercator Studio for Google Meet](https://addons.mozilla.org/en-US/firefox/addon/mercator-studio/)
   Change how you look on Google Meet with adjustable exposure, blur, vignette, and more!
+- [Minimal Theme for Twitter](https://addons.mozilla.org/en-US/firefox/addon/minimaltwitter/)
+  Declutter and refine the Twitter web experience.
 - [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/):
   Maximum protection for your browser: NoScript allows active content only for
   trusted domains of your choice to prevent exploitation.
