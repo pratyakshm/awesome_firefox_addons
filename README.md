@@ -19,6 +19,8 @@
 - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/):
   Dark mode for every website. Take care of your eyes, use dark theme for night
   and daily browsing.
+- [Eight Dollars](https://addons.mozilla.org/en-US/firefox/addon/eightdollars/):
+  Eight Dollars can help you tell the difference between actual verified accounts and twitter blue users.
 - [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/): Displays a
   flag depicting the location of the current server.
 - [Free Download Manager](https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/):
