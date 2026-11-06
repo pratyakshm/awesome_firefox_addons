@@ -78,6 +78,9 @@
 - [Translate web pages](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/):
   Translate your page in real time using Google or Yandex without opening new
   tabs.
+- [truediscount](https://addons.mozilla.org/en-US/firefox/addon/truediscount/):
+  Checks whether an EU shop discount is real against the 30-day lowest price
+  (Omnibus rule). Local price history only, no account, open source.
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/):
   Finally, an efficient blocker. Easy on CPU and memory.
 - [Universal Bypass](https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/):
