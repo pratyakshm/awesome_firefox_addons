@@ -62,6 +62,9 @@
 - [ScrollAnywhere](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/):
   Drag scrollbar with your middle mouse button anywhere on the page. Supports
   also "grab and drag" style and Momentum.
+- [ShrinkWatch EU](https://addons.mozilla.org/en-US/firefox/addon/shrinkwatch-eu/):
+  Shows price per kg or litre on EU grocery web shops and warns about
+  shrinkflation. Local pack history only, no account, open source.
 - [SponsorBlock for YouTube - Skip Sponsorships](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=homepage-primary-hero):
   Skip sponsorships, subscription begging and more on YouTube videos. Report
   sponsors on videos you watch to save others' time.
